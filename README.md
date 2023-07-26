@@ -7,7 +7,7 @@
 1. 下載與運行
 
     ```shell
-    git clone
+    git clone https://github.com/wujoe0415/SITCON_Camp_Hackathon_Bot.git
     poetry init
     poetry add pyTelegramBotAPI
     pip install telebot
